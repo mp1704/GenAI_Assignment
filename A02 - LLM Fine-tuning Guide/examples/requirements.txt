@@ -1,0 +1,36 @@
+# Core ML Libraries
+torch
+torchvision
+torchaudio
+transformers
+datasets
+accelerate
+
+# Fine-tuning Specific
+peft
+trl
+bitsandbytes
+
+# Monitoring and Visualization
+wandb
+tensorboard
+matplotlib
+seaborn
+
+# Data Processing
+pandas
+numpy
+scikit-learn
+tokenizers
+
+# Utilities
+tqdm
+psutil
+GPUtil
+pyyaml
+
+# Optional Dependencies for Advanced Features
+deepspeed
+flash-attn
+sentencepiece
+protobuf
